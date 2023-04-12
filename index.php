@@ -24,7 +24,7 @@
     <button><b>GET STARTED HERE</b></button>
   </div>
   <div class="circle">
- <img src="./image.png" alt="image">
+ <img src="./image.png" alt="profile">
   </div>
   
  </div>
