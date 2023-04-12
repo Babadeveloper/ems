@@ -1,0 +1,17 @@
+.tables {
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+  }
+.table th
+{
+    padding: 10px;
+    
+}
+.table td
+{
+    padding: 10px;   
+    padding-right: 100px;
+    
+}

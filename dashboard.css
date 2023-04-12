@@ -1,0 +1,93 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.header
+{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(214, 214, 214);
+    padding: 10px;
+    width: 100%;
+    
+}
+h1
+{
+    margin-left: 420px;
+    
+}
+.content
+{
+    display: flex;
+    padding-top: 10px;
+    
+    
+
+}
+.menu
+{
+    background-color: #4CAF50;
+    flex: 0.2;
+    height: 759px;
+    position: relative; 
+    top: -68px; 
+    
+    
+}
+.menu a
+{
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    font-size: 35px; 
+    padding: 78px; 
+      
+}
+.description
+{
+   background-color: rgb(214, 214, 214);
+   height: 699px;
+   flex: 1.8;
+   position: relative; 
+   top: -10px;
+   display: flex;
+   flex-direction: row;
+   width: 100%;
+   
+   
+
+}
+
+.income {
+    width: 263px;
+    height: 279px;
+    background-color: #fff;
+    margin: 227px 88px 0px 172px;
+    border-radius: 10%;
+    color: black;
+}
+.expenses
+{
+    width: 263px;
+    height: 279px;
+    background-color: #fff;
+    margin: 228px 88px 0px -17px;
+    border-radius: 10%;
+    color: black;
+}
+.Account
+{
+    width: 263px;
+    height: 279px;
+    background-color: #fff;
+    margin: 227px 88px 0px 28px;
+    border-radius: 10%;
+    color: black;
+}
+h5{
+    text-align: center;
+    margin: 50px;
+    font-size: x-large;
+}
